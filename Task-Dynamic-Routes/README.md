@@ -1,6 +1,6 @@
-# An Ecommerce site
+# Practicing Dynamic Routes
 
-[Preview](/public/screen-ezgif.com-video-to-gif-converter.gif)
+![Preview](/public/screen-ezgif.com-video-to-gif-converter.gif)
 
 The main objective was to create a site containing dynamic routes.So the best way to show it was some sorts of cards or title where user create on it and based on its id or anything we can navigate to the desired route. So i selected to create an ecommerce site where i used a [Fake Product API](https://fakestoreapi.com/) and fetched the data and displayed in accordingly.When user clicks on the product card the will we routed to a product page where they can view the product in details
 
@@ -31,7 +31,7 @@ For local installation:
 Clone the repos:
 
 ```
-git clone bitewise/TASK-DYNAMIC-ROUTES
+git clone Bytewise/TASK-DYNAMIC-ROUTES
 ```
 
 Run locally:
@@ -42,4 +42,5 @@ npm run dev
 Building:
 
 ```
-npm run build```
+npm run build
+```
